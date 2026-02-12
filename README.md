@@ -72,4 +72,4 @@
 
 ---
 
-Made with ❤️ by Krishna Veeramallu
+Made by Krishna Veeramallu
